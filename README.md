@@ -1,15 +1,26 @@
-## Hi there 👋
+# Hi, I'm Upender 👋
 
+Aspiring SOC Analyst focused on Blue Team operations, networking, and threat detection.
 
-**upenderboda/upenderboda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Learning
+- Cisco Networking
+- Linux
+- Microsoft Sentinel
+- Splunk
+- Python for Security
+- Wireshark
+- Active Directory
 
-Here are some ideas to get you started:
+## Certifications
+- Cisco Introduction to Cybersecurity
+- Cisco Networking Basics
+- Cisco Junior Cybersecurity Analyst (In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...                                                                                                
+## Platforms
+- TryHackMe
+- OverTheWire
+- Microsoft Learn
+- HackTheBox
+
+## Goal
+To become a SOC Analyst by building practical security projects.
